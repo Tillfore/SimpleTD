@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Try3D", "Try3D.csproj", "{F493A984-0433-3B26-EB90-6BAD636CA6C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F493A984-0433-3B26-EB90-6BAD636CA6C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F493A984-0433-3B26-EB90-6BAD636CA6C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F493A984-0433-3B26-EB90-6BAD636CA6C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F493A984-0433-3B26-EB90-6BAD636CA6C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
