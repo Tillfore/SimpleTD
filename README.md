@@ -1,4 +1,4 @@
-# SimpleTD  
+# SimpleTD  bata2
 
 > 前段时间刚接触Unity时自学教程做的塔防小游戏。Unity引擎，C#脚本，美术素材来自网络。  
 >
@@ -27,5 +27,6 @@
 强力输出，附带溅射伤害，射程远。但是射速慢，弹道速度慢。
 （配合减速炮塔，最大化溅射效果）
   
-  ----
+  
+  ----  
 https://github.com/Tillfore/SimpleTD/
